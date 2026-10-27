@@ -1,9 +1,9 @@
-﻿# Dataset YOLO — PJ1 Computer Vision and Deep Learning
-path: ../dataset
+path: C:/Users/ASUSVIVOBOOKPROO15/Documents/PJ1-Computer-Vision-and-Deep-Learning-RET503/dataset
 train: images/train
 val: images/val
 test: images/test
 
+nc: 3
 names:
   0: mask
   1: glasses
