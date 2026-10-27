@@ -1,0 +1,10 @@
+﻿# Dataset YOLO — PJ1 Computer Vision and Deep Learning
+path: ../dataset
+train: images/train
+val: images/val
+test: images/test
+
+names:
+  0: mask
+  1: glasses
+  2: gloves
