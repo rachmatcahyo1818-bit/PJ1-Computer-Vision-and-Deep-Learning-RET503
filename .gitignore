@@ -6,3 +6,6 @@ runs/
 results/
 *.pt
 .env
+
+dataset/labels/*.cache
+hasil/
